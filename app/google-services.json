@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021060595060",
+    "firebase_url": "https://codechallenge-6b9e3.firebaseio.com",
+    "project_id": "codechallenge-6b9e3",
+    "storage_bucket": "codechallenge-6b9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021060595060:android:900a614d3b373e87",
+        "android_client_info": {
+          "package_name": "com.deetech.codechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021060595060-n42vcoarjj8ev15ib887i0880epk0sgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deetech.codechallenge",
+            "certificate_hash": "5cdfd99d74118e0b9a08b78880b568c1d366bfb8"
+          }
+        },
+        {
+          "client_id": "1021060595060-dr7vbpbnn9ds6k2vh0nmmo7dtcjramgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ufHlvgz_AdxG_3N_OLvQTMcQRc7rB14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021060595060-dr7vbpbnn9ds6k2vh0nmmo7dtcjramgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
